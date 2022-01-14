@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net461;net40;$(net35)</TargetFrameworks>
+    <RootNamespace>qckdev</RootNamespace>
+    <Description>Provides tools for working with several System.Data.AppDomain at the same time.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/hfrances/qckdev.AppDomainHelper</PackageProjectUrl>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
